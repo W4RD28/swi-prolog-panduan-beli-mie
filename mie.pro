@@ -4,6 +4,14 @@
 mie(la_fonte):-
     orang_indonesia(tidak).
 
+mie(Samyang):-
+    orang_indonesia(tidak).
+    rakyat_jelata(tidak).
+    
+mie(UFO):-
+    orang_indonesia(tidak).
+    rakyat_jelata(iya).    
+
 mie(lemonilo):-
     orang_indonesia(iya),
     rakyat_jelata(tidak).
